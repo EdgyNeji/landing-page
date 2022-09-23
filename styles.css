@@ -1,0 +1,92 @@
+.top-container {
+    box-sizing: content-box;
+    padding-left: 110px;
+    padding-right: 110px;
+    height: 700px;
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+    justify-content: space-around;
+}
+
+.header-logo {
+    margin-bottom: 150px;
+    align-self: flex-start;
+    font-size: 38px;
+    font-weight: bold;
+    box-sizing: content-box;
+}
+
+.list-container ul {
+    font-size: 28px;
+    margin-bottom: 150px;
+    box-sizing: content-box;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    
+    
+}
+
+.sign-up-container {
+    font-size: 26px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    
+}
+
+.sign-up-button {
+    width: 170px;
+    height: 40px;
+    color: white;
+    background-color: #3882F6;
+    border-radius: 6px;
+    font-size: 10;
+    font-weight: bold;
+}
+
+.nezuko {
+    height: 300px;
+    width: 500px;
+    align-self: center;
+}
+
+.quad {
+    width: 200px;
+    height: 200px;
+}
+
+.middle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 700px;
+    justify-content: center;
+    font-size: 38px;
+}
+
+.quad-photos-container {
+    display: flex;
+}
+
+.fig {
+    font-size: 28px;
+}
+
+.third-container {
+    background-color: #E5E7EB;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.quote {
+    font-size: 36px;
+
+
+}
