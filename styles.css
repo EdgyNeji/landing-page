@@ -90,3 +90,53 @@
 
 
 }
+
+.call-to-action {
+    margin: 400px;
+    display: flex;
+    width: 1200px;
+    height: 150px;
+    background-color: #3882F6;
+    justify-content: flex-end;
+    align-items: center;
+    border-radius: 6px;
+}
+
+.cta {
+    border-color: white;
+    width: 100px;
+    height: 45px;
+    color: white;
+    background-color: #3882F6;
+    border-color: white;
+    margin-right: 100px;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+.cta-header, .cta-p {
+    display: flex;
+    flex-direction: column;
+    justify-self: flex-start;
+    margin-right: 400px;
+    color: white;
+}
+
+.cta-header {
+    font-size: 30px;
+    margin-bottom: -20px;
+}
+
+.text {
+    justify-content: space-around;
+}
+
+.footer {
+    display: flex;
+    height: 150px;
+    background-color: #1F2937;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
